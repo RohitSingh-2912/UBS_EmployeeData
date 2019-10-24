@@ -1,0 +1,8 @@
+C:\Users\RohitS\source\repos\EmployeeData\UBS.EmployeeData.Abstraction\bin\Debug\netstandard2.0\UBS.EmployeeData.Abstraction.deps.json
+C:\Users\RohitS\source\repos\EmployeeData\UBS.EmployeeData.Abstraction\bin\Debug\netstandard2.0\UBS.EmployeeData.Abstraction.dll
+C:\Users\RohitS\source\repos\EmployeeData\UBS.EmployeeData.Abstraction\obj\Debug\netstandard2.0\UBS.EmployeeData.Abstraction.csprojAssemblyReference.cache
+C:\Users\RohitS\source\repos\EmployeeData\UBS.EmployeeData.Abstraction\obj\Debug\netstandard2.0\UBS.EmployeeData.Abstraction.AssemblyInfoInputs.cache
+C:\Users\RohitS\source\repos\EmployeeData\UBS.EmployeeData.Abstraction\obj\Debug\netstandard2.0\UBS.EmployeeData.Abstraction.AssemblyInfo.cs
+C:\Users\RohitS\source\repos\EmployeeData\UBS.EmployeeData.Abstraction\bin\Debug\netstandard2.0\UBS.EmployeeData.Abstraction.pdb
+C:\Users\RohitS\source\repos\EmployeeData\UBS.EmployeeData.Abstraction\obj\Debug\netstandard2.0\UBS.EmployeeData.Abstraction.dll
+C:\Users\RohitS\source\repos\EmployeeData\UBS.EmployeeData.Abstraction\obj\Debug\netstandard2.0\UBS.EmployeeData.Abstraction.pdb
