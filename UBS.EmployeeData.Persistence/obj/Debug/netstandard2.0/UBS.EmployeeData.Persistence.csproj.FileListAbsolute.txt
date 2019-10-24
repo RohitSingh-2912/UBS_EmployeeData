@@ -1,0 +1,8 @@
+C:\Users\RohitS\source\repos\EmployeeData\UBS.EmployeeData.Persistence\bin\Debug\netstandard2.0\UBS.EmployeeData.Persistence.deps.json
+C:\Users\RohitS\source\repos\EmployeeData\UBS.EmployeeData.Persistence\bin\Debug\netstandard2.0\UBS.EmployeeData.Persistence.dll
+C:\Users\RohitS\source\repos\EmployeeData\UBS.EmployeeData.Persistence\bin\Debug\netstandard2.0\UBS.EmployeeData.Persistence.pdb
+C:\Users\RohitS\source\repos\EmployeeData\UBS.EmployeeData.Persistence\obj\Debug\netstandard2.0\UBS.EmployeeData.Persistence.csprojAssemblyReference.cache
+C:\Users\RohitS\source\repos\EmployeeData\UBS.EmployeeData.Persistence\obj\Debug\netstandard2.0\UBS.EmployeeData.Persistence.AssemblyInfoInputs.cache
+C:\Users\RohitS\source\repos\EmployeeData\UBS.EmployeeData.Persistence\obj\Debug\netstandard2.0\UBS.EmployeeData.Persistence.AssemblyInfo.cs
+C:\Users\RohitS\source\repos\EmployeeData\UBS.EmployeeData.Persistence\obj\Debug\netstandard2.0\UBS.EmployeeData.Persistence.dll
+C:\Users\RohitS\source\repos\EmployeeData\UBS.EmployeeData.Persistence\obj\Debug\netstandard2.0\UBS.EmployeeData.Persistence.pdb
