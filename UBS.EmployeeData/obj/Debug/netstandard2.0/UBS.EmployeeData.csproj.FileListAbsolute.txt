@@ -1,0 +1,13 @@
+C:\Users\RohitS\source\repos\EmployeeData\UBS.EmployeeData\bin\Debug\netstandard2.0\UBS.EmployeeData.deps.json
+C:\Users\RohitS\source\repos\EmployeeData\UBS.EmployeeData\bin\Debug\netstandard2.0\UBS.EmployeeData.dll
+C:\Users\RohitS\source\repos\EmployeeData\UBS.EmployeeData\obj\Debug\netstandard2.0\UBS.EmployeeData.AssemblyInfoInputs.cache
+C:\Users\RohitS\source\repos\EmployeeData\UBS.EmployeeData\obj\Debug\netstandard2.0\UBS.EmployeeData.AssemblyInfo.cs
+C:\Users\RohitS\source\repos\EmployeeData\UBS.EmployeeData\bin\Debug\netstandard2.0\UBS.EmployeeData.pdb
+C:\Users\RohitS\source\repos\EmployeeData\UBS.EmployeeData\bin\Debug\netstandard2.0\UBS.EmployeeData.Abstraction.dll
+C:\Users\RohitS\source\repos\EmployeeData\UBS.EmployeeData\bin\Debug\netstandard2.0\UBS.EmployeeData.Persistence.dll
+C:\Users\RohitS\source\repos\EmployeeData\UBS.EmployeeData\bin\Debug\netstandard2.0\UBS.EmployeeData.Abstraction.pdb
+C:\Users\RohitS\source\repos\EmployeeData\UBS.EmployeeData\bin\Debug\netstandard2.0\UBS.EmployeeData.Persistence.pdb
+C:\Users\RohitS\source\repos\EmployeeData\UBS.EmployeeData\obj\Debug\netstandard2.0\UBS.EmployeeData.csprojAssemblyReference.cache
+C:\Users\RohitS\source\repos\EmployeeData\UBS.EmployeeData\obj\Debug\netstandard2.0\UBS.EmployeeData.csproj.CopyComplete
+C:\Users\RohitS\source\repos\EmployeeData\UBS.EmployeeData\obj\Debug\netstandard2.0\UBS.EmployeeData.dll
+C:\Users\RohitS\source\repos\EmployeeData\UBS.EmployeeData\obj\Debug\netstandard2.0\UBS.EmployeeData.pdb

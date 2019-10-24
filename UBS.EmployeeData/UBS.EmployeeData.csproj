@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MongoDB.Driver" Version="2.9.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\UBS.EmployeeData.Abstraction\UBS.EmployeeData.Abstraction.csproj" />
+    <ProjectReference Include="..\UBS.EmployeeData.Persistence\UBS.EmployeeData.Persistence.csproj" />
+  </ItemGroup>
+
+</Project>
